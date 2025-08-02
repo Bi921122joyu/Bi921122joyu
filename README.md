@@ -1,4 +1,4 @@
-![logo](https://github.com/Bi921122joyu/Bi921122joyu/blob/main/1754136347627%5B1%5D.png)
+![logo](https://github.com/Bi921122joyu/Bi921122joyu/blob/main/IMG-20250802-WA0003%5B1%5D.jpg)
 <h1 align="center">Hi 👋, I'm Bijoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
